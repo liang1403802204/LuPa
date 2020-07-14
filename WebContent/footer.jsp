@@ -15,7 +15,7 @@
 <link rel="apple-touch-startup-image" sizes="1536x2008" href="images/splash/splash-screen-ipad-portrait-retina.png"   media="(device-width: 768px)	and (orientation: portrait)	and (-webkit-device-pixel-ratio: 2)"/>
 <link rel="apple-touch-startup-image" sizes="1496x2048" href="images/splash/splash-screen-ipad-landscape-retina.png"   media="(device-width: 768px)	and (orientation: landscape)	and (-webkit-device-pixel-ratio: 2)"/>
 
-<title>Ciuten</title>
+<title>footer</title>
 
 <link href="styles/style.css"     		rel="stylesheet" type="text/css">
 <link href="styles/framework.css" 		rel="stylesheet" type="text/css">
@@ -36,14 +36,14 @@
 <div class="decoration"></div>         
     
     <div class="footer">
-    	<div class="socials">
+    	<!-- <div class="socials">
             <a href="#" class="twitter-icon"></a>
             <a href="#" class="google-icon"></a>
             <a href="#" class="facebook-icon"></a>
-        </div>
+        </div> -->
         <div class="clear"></div>
         <p class="copyright">
-        	COPYRIGHT 2014.<br>
+        	©LuPa 2020.<br>
             ALL RIGHTS RESERVED
         </p>
         

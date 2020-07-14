@@ -35,12 +35,12 @@
 <script type="text/javascript" src="scripts/framework.launcher.js"></script>
 <div class="content">
 	<div class="header">
-    	<a href="#" class="homepage-logo">
-        	<img src="images/misc/logo.png" alt="img">
+    	<a href="index.jsp" class="homepage-logo">
+        	<img src="images/misc/lupa_logo_wid.png" alt="img">
         </a>
-        <a href="index.html" class="go-home">HOME</a>
-        <a href="#" class="go-menu">MENU</a>
-        <a href="#" class="go-back">CLOSE</a>
+        <a href="index.jsp" class="go-home">主页</a>
+        <a href="#" class="go-menu">菜单</a>
+        <a href="#" class="go-back">关闭</a>
     </div>
     <div class="decoration"></div>
     
@@ -48,7 +48,7 @@
     	<div class="corner-deco"></div>
     	<div class="navigation-wrapper">
             <div class="navigation-item">
-                <a href="index.jsp" class="home-icon">Home</a>
+                <a href="index.jsp" class="home-icon">主页</a>
                 <em class="active-menu"></em>
             </div>
             <div class="navigation-item">

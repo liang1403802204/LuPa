@@ -17,7 +17,7 @@
 	<link rel="apple-touch-startup-image" sizes="1536x2008" href="images/splash/splash-screen-ipad-portrait-retina.png" media="(device-width: 768px)	and (orientation: portrait)	and (-webkit-device-pixel-ratio: 2)" />
 	<link rel="apple-touch-startup-image" sizes="1496x2048" href="images/splash/splash-screen-ipad-landscape-retina.png" media="(device-width: 768px)	and (orientation: landscape)	and (-webkit-device-pixel-ratio: 2)" />
 
-	<title>Home</title>
+	<title>主页</title>
 
 	<link href="styles/style.css" rel="stylesheet" type="text/css">
 	<link href="styles/framework.css" rel="stylesheet" type="text/css">
@@ -44,8 +44,8 @@
 	<div id="preloader">
 		<div id="status">
 			<p class="center-text">
-				Loading the content...
-				<em>Loading depends on your connection speed!</em>
+				正在进入请稍等...
+				<em>Loading ..........</em>
 			</p>
 		</div>
 	</div>
@@ -53,8 +53,8 @@
 	<div class="top-deco"></div>
 
 	<div class="landing-page">
-		<a class="landing-logo" href="#">
-			<img src="images/misc/logo.png" alt="img">
+		<a class="landing-logo" href="index.jsp">
+			<img src="images/misc/lupa_logo_wid.png" alt="img">
 		</a>
 
 		<div class="decoration"></div>
